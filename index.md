@@ -2,14 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Statistical Methods for Research Workers: Bayes for Psychologists and Neuroscientists
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
@@ -25,7 +17,7 @@ _"All models are wrong but some models are useful."_
 _"The big problem in science is not cheaters or opportunists, but sincere researchers who have unfortunately been trained to think that every statistically “significant” result is notable."_
 [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) (11 February 1965 – ). <ins>Essay: The Experiments Are Fascinating. But Nobody Can Repeat Them</ins>. [The New York Times (19/10/2018)](https://www.nytimes.com/2018/11/19/science/science-research-fraud-reproducibility.html)
 
-_"The purpose of models is not to fit the data but to sharpen the question"_
+_"The purpose of models is not to fit the data but to sharpen the question."_
 [Samuel Karlin](https://en.wikipedia.org/wiki/Samuel_Karlin) (8 June 1924 - ). <ins>11th R. A. Fisher Memorial Lecture (20 April 1983)</ins> Royal Society.
 
 ### Header 3
