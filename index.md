@@ -13,6 +13,11 @@ Indeed, in psychology and neuroscience, the teaching of statistics typically fol
 
 On this page, we are proposing an exploration of how Bayesian methods can be applied to the fields of psychology and neuroscience, using [Python](https://www.anaconda.com/products/individual) and [Stan](https://mc-stan.org/), with the explicit intent of providing research workers with an opportunity to see and understand what they are doing to their data.
 Our motivation stems from our experience of the so-called [Reproducibility Crisis](https://osf.io/qky8t), which has hit both fields.
+The Bayesian approach requires commitment to all parts of a given model, and relies on explicit assumptions formulated by the researcher.
+Research is thus about justifying one's choices, and not about finding a model that will yield the required number of stars in a table.
+
+Importantly, we do not seek to engage in the debate opposing Frequentists and Bayesians.
+Although our preference might transpire here and there, we favour the more oecumenical view that frequentist shortcuts can be justified in precise contexts.
 We will do our best to only expect entry-level Python coding skills and statistics, and to favour explaining over writing optimised code.
 
 
