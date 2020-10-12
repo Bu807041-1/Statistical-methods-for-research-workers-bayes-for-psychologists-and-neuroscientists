@@ -5,7 +5,7 @@ layout: default
 # Statistical Methods for Research Workers: Bayes for Psychologists and Neuroscientists
 
 [Statistical Methods for Research Workers](https://en.wikipedia.org/wiki/Statistical_Methods_for_Research_Workers), written by [Ronald A. Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher) in 1925, is a landmark publication that ended up not only defining how psychologists and neuroscientists analyse their data, but also influencing how they actually perceive the world.
-Almost a hundred years ago, the field of statistics, i.e. mathematics applied to data, was not structured in the way it is today, and "research workers" had to refine, and often invent the methods that would best suit their needs.
+Almost a hundred years ago, the field of statistics, i.e. mathematics applied to data, was not at all structured in the way it is today, and "research workers" had to refine, and often invent the methods that would best suit their needs.
 In this seminal book, Fisher codified what it meant to analyse data for the purpose of creating knowledge about the world, paving the way for what came to be statistics as we now know it. Later, the advent of computers transformed the tools available to analyse data, widening the use of statistics to researchers who did not necessarily need or want to deepen their mathematical understanding of the methods.
 
 It is important to note that we, "research workers", do not have the same experience of statistics. Most psychologists and neuroscientists, for instance, would barely have heard of the debate between Frequentist and Bayesian methods, which can be rocking other scientific fields.
@@ -17,7 +17,7 @@ The Bayesian approach requires commitment to all parts of a given model, and rel
 Doing good research is thus about justifying one's choices, and not about finding a model that will yield the required number of stars in a table.
 
 Importantly, we do not seek to engage in the debate opposing Frequentists and Bayesians.
-Although our preference might transpire here and there, we favour the more oecumenical view that frequentist shortcuts can be justified in precise contexts, a point even Fisher would agree.
+Although our preference might transpire here and there, we favour the more oecumenical view that frequentist shortcuts can be justified in precise contexts; a point, we posit even Fisher would concede.
 We will do our best to only expect entry-level Python coding skills and statistics, and to favour explaining over writing optimised code.
 
 
