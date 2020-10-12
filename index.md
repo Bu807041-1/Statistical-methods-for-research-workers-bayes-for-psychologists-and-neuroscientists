@@ -29,6 +29,19 @@ _"The big problem in science is not cheaters or opportunists, but sincere resear
 _"The purpose of models is not to fit the data but to sharpen the question."_
 [Samuel Karlin](https://en.wikipedia.org/wiki/Samuel_Karlin) (8 June 1924 - very much alive). <ins>11th R. A. Fisher Memorial Lecture (20 April 1983)</ins> Royal Society.
 
+### Running our notebooks
+
+
+## Tests of Goodness of Fit, independence and homogeneity
+
+## Tests of significance of means, differences of means, and regression coefficients
+
+## Intraclass correlations and the analysis of variance
+
+
+
+## -----
+
 ### Header 3
 
 ```js
