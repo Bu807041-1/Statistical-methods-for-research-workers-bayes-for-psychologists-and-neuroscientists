@@ -23,7 +23,7 @@ _"[...] we may say that a phenomenon is experimentally demonstrable when we know
 _"All models are wrong but some models are useful."_
 [George E. P. Box](https://en.wikipedia.org/wiki/George_E._P._Box) (18 October 1919 – 28 March 2013). <ins>Robustness in the Strategy of Scientific Model Building</ins> (1979). p. 2.
 
-_"The big problem in science is not cheaters or opportunists, but sincere researchers who have unfortunately been trained to think that every statistically “significant” result is notable."_
+_"The big problem in science is not cheaters or opportunists, but sincere researchers who have unfortunately been trained to think that every statistically 'significant' result is notable."_
 [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) (11 February 1965 – very much alive). <ins>Essay: The Experiments Are Fascinating. But Nobody Can Repeat Them</ins>. [The New York Times (19/10/2018)](https://www.nytimes.com/2018/11/19/science/science-research-fraud-reproducibility.html).
 
 _"The purpose of models is not to fit the data but to sharpen the question."_
