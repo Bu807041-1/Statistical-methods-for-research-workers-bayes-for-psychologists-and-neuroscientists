@@ -18,7 +18,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 > "[...] we may say that a phenomenon is experimentally demonstrable when we know how to conduct an experiment which will rarely fail to give us statistically significant results"
 
-Ronald J. Fisher (1890-1962). **The design of experiments** (1951). p. 14
+Ronald J. Fisher (17 February 1890 - 29 July 1962). **The design of experiments** (1951). p. 14
 
 > "All models are wrong but some models are useful."
 
