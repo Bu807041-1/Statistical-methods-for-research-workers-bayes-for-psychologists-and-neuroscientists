@@ -4,7 +4,8 @@ layout: default
 
 # Statistical Methods for Research Workers: Bayes for Psychologists and Neuroscientists
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[Statistical Methods for Research Workers](https://en.wikipedia.org/wiki/Statistical_Methods_for_Research_Workers), written by R. A. Fisher in 1925...
+
 
 ## Preface
 
