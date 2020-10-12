@@ -38,12 +38,12 @@ _"The purpose of models is not to fit the data but to sharpen the question."_
 
 ### Prerequisites
 
-1. The ultimate prerequisite for any psychologist or neuroscientist to follow these pages is the willingness to question one's knowledge, and to deepen one's undertanding of the methods.
+The ultimate prerequisite for any psychologist or neuroscientist to follow these pages is the willingness to question one's knowledge, and to deepen one's undertanding of the methods.
 
-2. Although you might learn a thing or two, these pages are not about learning [Python](https://www.anaconda.com/products/individual).
+Although you might learn a thing or two, these pages are not about learning [Python](https://www.anaconda.com/products/individual).
 The code is documented extensively, and should be readable to anyone who has passing command of English.
 
-3. Perhaps the more difficult prerequisite for a psychologist or a neuroscientist is the ability to see the world differently, to ask questions beyond differences between two groups.
+Perhaps the more difficult prerequisite for a psychologist or a neuroscientist is the ability to see the world differently, to ask questions beyond differences between two groups. The Bayesian method affords more questions to be asked than does the Frequentist method. F
 
 ### Running our notebooks
 
