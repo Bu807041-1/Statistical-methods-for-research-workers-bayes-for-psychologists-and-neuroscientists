@@ -16,13 +16,19 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Preface
 
-> “[...] we may say that a phenomenon is experimentally demonstrable when we know how to conduct an experiment which will rarely fail to give us statistically significant results”
-Ronald Fisher (1890-1962). The design of experiments (1951). p. 14
+> "[...] we may say that a phenomenon is experimentally demonstrable when we know how to conduct an experiment which will rarely fail to give us statistically significant results"
+
+Ronald J. Fisher (1890-1962). **The design of experiments** (1951). p. 14
+
+> "All models are wrong but some models are useful."
+
+George E. P. Box (18 October 1919 – 28 March 2013). *Robustness in the Strategy of Scientific Model Building* (1979). p. 2.
+
+> "The big problem in science is not cheaters or opportunists, but sincere researchers who have unfortunately been trained to think that every statistically “significant” result is notable."
+
+Andrew Gelman (11 February 1965 – ). Essay: The Experiments Are Fascinating. But Nobody Can Repeat Them. The New York Times (19/10/2018). https://www.nytimes.com/2018/11/19/science/science-research-fraud-reproducibility.html
 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
