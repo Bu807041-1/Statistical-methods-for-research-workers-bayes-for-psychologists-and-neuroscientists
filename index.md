@@ -10,11 +10,15 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Statistical Methods for Research Workers: Bayes for Psychologists and Neuroscientists
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Preface
+
+> “[...] we may say that a phenomenon is experimentally demonstrable when we know how to conduct an experiment which will rarely fail to give us statistically significant results”
+Ronald Fisher (1890-1962). The design of experiments (1951). p. 14
+
 
 > This is a blockquote following a header.
 >
