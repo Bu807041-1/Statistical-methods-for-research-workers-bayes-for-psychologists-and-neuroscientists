@@ -26,7 +26,7 @@ George E. P. Box (18 October 1919 – 28 March 2013). *Robustness in the Strateg
 
 > "The big problem in science is not cheaters or opportunists, but sincere researchers who have unfortunately been trained to think that every statistically “significant” result is notable."
 
-Andrew Gelman (11 February 1965 – ). Essay: The Experiments Are Fascinating. But Nobody Can Repeat Them. The New York Times (19/10/2018). https://www.nytimes.com/2018/11/19/science/science-research-fraud-reproducibility.html
+AndrewGelman (11 February 1965 – ). Essay: The Experiments Are Fascinating. But Nobody Can Repeat Them. The New York Times (19/10/2018). https://www.nytimes.com/2018/11/19/science/science-research-fraud-reproducibility.html
 
 
 
