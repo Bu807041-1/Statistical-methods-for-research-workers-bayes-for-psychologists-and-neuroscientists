@@ -9,7 +9,10 @@ At the time, the field of statistics, i.e. mathematics applied to data, was not 
 In this seminal book, Fisher codified what it meant to analyse data for the purpose of creating knowledge about the world, paving the way for what came to be statistics as we know it today. Later, the advent of computers transformed the tools available to analyse data, widening the use of statistics to researchers who did not necessarily need or want to deepen their mathematical understanding of the methods.
 
 It is important to note that we, "research workers", do not have the same experience of statistics. Most psychologists and neuroscientists, for instance, would barely have heard of the debate between Frequentist and Bayesian methods, which can be rocking other scientific fields.
-Indeed, in psychology and neuroscience, the teaching of statistics typically follow almost to the letter the table of content from Fisher's book, and it is not unusual for students to only "know" statistics through the menus of a Graphic User Interface on a proprietary piece of software, instead of acquiring the intuitions necessary to understand how distributions of data are manipulated.
+Indeed, in psychology and neuroscience, the teaching of statistics typically follow almost to the letter the table of content from Fisher's book, and it is not unusual for students to only "know" statistics through the menus of a Graphic User Interface on a proprietary piece of software, instead of acquiring the intuitions necessary to understand how distributions of data are manipulated and evaluated.
+
+On this page, we are proposing an exploration of how Bayesian methods can be applied to the fields of psychology and neuroscience, using Python and Stan, with the explicit intent to provide research workers with an opportunity to understand what they are doing to their data.
+Our motivation stems from our understanding of the so-called [Reproducibility Crisis](https://osf.io/qky8t), which has hit both fields.
 
 
 ## Preface
