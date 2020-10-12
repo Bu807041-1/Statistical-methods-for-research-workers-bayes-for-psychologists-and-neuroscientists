@@ -18,15 +18,15 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 > "[...] we may say that a phenomenon is experimentally demonstrable when we know how to conduct an experiment which will rarely fail to give us statistically significant results"
 
-Ronald J. Fisher (17 February 1890 - 29 July 1962). __The design of experiments__ (1951). p. 14
+[Ronald A. Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher) (17 February 1890 - 29 July 1962). <ins>The design of experiments</ins> (1951). p. 14
 
 > "All models are wrong but some models are useful."
 
-George E. P. Box (18 October 1919 – 28 March 2013). __Robustness in the Strategy of Scientific Model Building__ (1979). p. 2.
+[George E. P. Box](https://en.wikipedia.org/wiki/George_E._P._Box) (18 October 1919 – 28 March 2013). <ins>Robustness in the Strategy of Scientific Model Building</ins> (1979). p. 2.
 
 > "The big problem in science is not cheaters or opportunists, but sincere researchers who have unfortunately been trained to think that every statistically “significant” result is notable."
 
-AndrewGelman (11 February 1965 – ). Essay: The Experiments Are Fascinating. But Nobody Can Repeat Them. The New York Times (19/10/2018). https://www.nytimes.com/2018/11/19/science/science-research-fraud-reproducibility.html
+[Andrew Gelman](http://www.stat.columbia.edu/~gelman/) (11 February 1965 – ). Essay: The Experiments Are Fascinating. But Nobody Can Repeat Them. The New York Times (19/10/2018). https://www.nytimes.com/2018/11/19/science/science-research-fraud-reproducibility.html
 
 
 
